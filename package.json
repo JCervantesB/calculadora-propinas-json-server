@@ -4,7 +4,7 @@
   "description": "proyecto 40 jsmoderno",
   "main": "index.html",
   "scripts": {
-    "start": "json-server --watch db.json --port 4000"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
     "url": "https://github.com/JCervantesB/Calculadora-de-Propinas-con-JSON-Server/issues"
   },
   "homepage": "https://github.com/JCervantesB/Calculadora-de-Propinas-con-JSON-Server#readme",
-  "devDependencies": {
+  "dependencies": {
     "json-server": "^0.17.0"
   }
 }

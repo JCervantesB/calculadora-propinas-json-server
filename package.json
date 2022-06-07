@@ -2,7 +2,7 @@
   "name": "calculadora-propinas",
   "version": "1.0.0",
   "description": "proyecto 40 jsmoderno",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "dev": "json-server --watch db.json --port 4000"
   },

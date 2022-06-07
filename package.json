@@ -1,0 +1,26 @@
+{
+  "name": "calculadora-propinas",
+  "version": "1.0.0",
+  "description": "proyecto 40 jsmoderno",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server --watch db.json --port 4000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCervantesB/Calculadora-de-Propinas-con-JSON-Server.git"
+  },
+  "keywords": [
+    "JSon",
+    "Server"
+  ],
+  "author": "JCervantes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JCervantesB/Calculadora-de-Propinas-con-JSON-Server/issues"
+  },
+  "homepage": "https://github.com/JCervantesB/Calculadora-de-Propinas-con-JSON-Server#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}

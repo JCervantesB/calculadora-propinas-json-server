@@ -4,7 +4,7 @@
   "description": "proyecto 40 jsmoderno",
   "main": "index.html",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "json-server --watch db.json --port 4000"
   },
   "repository": {
     "type": "git",
